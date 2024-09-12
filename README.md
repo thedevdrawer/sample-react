@@ -10,6 +10,6 @@ Essentially, you set up a typical PHP send function, and then call it from React
 
 View the videos:
 
-Part 1: [https://www.youtube.com/watch?v=Ou-RUuujpXY](React JS Crash Course)
+Part 1: [https://www.youtube.com/watch?v=Ou-RUuujpXY] (React JS Crash Course)
 
-Part 2: [https://youtu.be/c25pkDJ1xUI](How To Send Emails with React.js using Fetch)
+Part 2: [https://youtu.be/c25pkDJ1xUI] (How To Send Emails with React.js using Fetch)
