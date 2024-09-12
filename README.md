@@ -9,5 +9,7 @@ Since React is JavaScript and does not process emails like server-side code (PHP
 Essentially, you set up a typical PHP send function, and then call it from React. Easy.
 
 View the videos:
+
 Part 1: [https://www.youtube.com/watch?v=Ou-RUuujpXY](React JS Crash Course)
+
 Part 2: [https://youtu.be/c25pkDJ1xUI](How To Send Emails with React.js using Fetch)
